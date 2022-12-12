@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "config": "file:../config",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-asyncify": "^1.0.0",
     "jsonwebtoken": "^8.5.1",
     "oracledb": "^4.2.0",
